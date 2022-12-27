@@ -1,6 +1,7 @@
 # 19-12-2022_LINUX17NOVB1_SPRINT-1_F
 
 Local google is a local search engine made by capgemini's group of analysts.
+
 You can search any file and open it by searching keyword , file name and file path.
 Prerequisites for using local google will be:
 1. Ubuntu terminal
@@ -9,3 +10,5 @@ Prerequisites for using local google will be:
 4. To complile code in Ubuntu : gcc filename.c -o filename.out
 5. To execute : ./filename.out
 
+By: Sonam Verma, Aleena Khan, Pragya Jaiswal, Priyanka Chanda,Tejaswani Derkar, Priti Kumari.
+Guide: Sandeep Yadav (Trainer)
