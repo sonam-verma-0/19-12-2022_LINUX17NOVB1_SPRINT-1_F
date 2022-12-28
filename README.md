@@ -10,5 +10,5 @@ Prerequisites for using local google will be:
 4. To complile code in Ubuntu : gcc filename.c -o filename.out
 5. To execute : ./filename.out
 
-By: Sonam Verma, Aleena Khan, Pragya Jaiswal, Priyanka Chanda,Tejaswani Derkar, Priti Kumari.
+By: Sonam Verma, Aleena Khan, Pragya Jaiswal, Priyanka Chanda,Tejaswini Derkar, Priti Kumari.
 Guide: Sandeep Yadav (Trainer)
